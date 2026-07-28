@@ -12,7 +12,7 @@ Everything here is built on the second kind.
 
 | Study | Claim (in one line) | Status |
 |---|---|:---|
-| **[gate-on-the-fact](https://github.com/NovemberFalls/gate-on-the-fact)** | A reviewer persona is theater; gate on a deterministic check, not an LLM judge. | **✅ Confirmed (placebo-controlled, saturating)** |
+| **[gate-on-the-fact](https://github.com/NovemberFalls/gate-on-the-fact)** | A reviewer persona is theater; gate on a deterministic check, not an LLM judge. | **✅ Confirmed (powered — 400-run matrix, CIs)** |
 | **[capability-isnt-free](https://github.com/NovemberFalls/capability-isnt-free)** | Capability is not monotonic — an over-capable model is *worse* at mechanical work; route by verified accounting, not token price. | **🔬 Pre-registered, data pending** |
 | **[cheapest-hands](https://github.com/NovemberFalls/cheapest-hands)** | Once the spec lowers a task to application, cheap/local hands clear the gate at a fraction of frontier cost. | **📊 Partial — powered run pending** |
 
