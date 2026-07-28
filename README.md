@@ -14,7 +14,7 @@ Everything here is built on the second kind.
 |---|---|:---|
 | **[gate-on-the-fact](https://github.com/NovemberFalls/gate-on-the-fact)** | A reviewer persona is theater; gate on a deterministic check, not an LLM judge. | **✅ Confirmed (powered — 400-run matrix, CIs)** |
 | **[capability-isnt-free](https://github.com/NovemberFalls/capability-isnt-free)** | Capability above the task is *wasted spend* — equal correctness across tiers, 3–15× cost; route to the cheapest tier that clears the gate. | **✅ Confirmed (1 fixture, k=25)** |
-| **[cheapest-hands](https://github.com/NovemberFalls/cheapest-hands)** | Once the spec lowers a task to application, cheap/local hands clear the gate at a fraction of frontier cost. | **📊 Partial — powered run pending** |
+| **[cheapest-hands](https://github.com/NovemberFalls/cheapest-hands)** | Once the spec lowers a task to application, cheap/local hands clear the gate at a fraction of frontier cost. | **📊 Partial — 1 gate cell confirmed (local 30B: perfect, $0)** |
 
 Each status is a promise, not a boast: the confirmed one survived a pre-registered
 protocol at k=25; the pending ones publish their hypothesis and method now and fill in
